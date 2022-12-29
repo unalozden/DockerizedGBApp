@@ -11,6 +11,6 @@ using GenieFramework
   end
 end
 
-@page("/", "app.jl.html")
+@page("/", "index.html")
 
 end
